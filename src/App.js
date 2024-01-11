@@ -23,7 +23,7 @@ function App() {
       }
 
       <div className='gif'>
-        <iframe src="https://giphy.com/embed/l0IyajjbNiRvCr7RC" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aetv-l0IyajjbNiRvCr7RC">via GIPHY</a></p>
+        <iframe src="https://giphy.com/embed/l0IyajjbNiRvCr7RC" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
       </div>
       {/* <a href="https://github.com/sergiss/react-clock" target="_blank"><i className="fa">&#xf09b;</i> Source Code </a> */}
     </>
