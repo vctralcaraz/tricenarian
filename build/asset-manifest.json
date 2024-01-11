@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tricenarian/static/css/main.933b417e.css",
+    "main.js": "/tricenarian/static/js/main.b9586019.js",
+    "static/media/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg": "/tricenarian/static/media/graham-holtshausen-fUnfEz3VLv4-unsplash.44ded7b15d29766141f4.jpg",
+    "static/media/digital-7.ttf": "/tricenarian/static/media/digital-7.ae951a188b593952b384.ttf",
+    "index.html": "/tricenarian/index.html",
+    "main.933b417e.css.map": "/tricenarian/static/css/main.933b417e.css.map",
+    "main.b9586019.js.map": "/tricenarian/static/js/main.b9586019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933b417e.css",
+    "static/js/main.b9586019.js"
+  ]
+}
